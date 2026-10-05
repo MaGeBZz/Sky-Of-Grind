@@ -21,6 +21,7 @@
  - Thanks to Lopy's More Materials, we use the cell textures.
  - Thanks to hag/gha for letting us use gregger's superflat challenge circuit textures.
  - Thanks to [sensesgone](https://github.com/sensesgone) from some of their casing textures.
+ - Thanks to [Bigger AE2]([https://github.com/sensesgone](https://github.com/DancingSnow0517/BiggerAE2)) for the Textures Quantum Cell Component and Digital Singularity Cell Component
  
  - And thanks again, to the great GT modpacks like GT:NH, Nomifactory, Technological Journey, etc. For lots of ideas and inspiration!
 
